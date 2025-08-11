@@ -33,7 +33,7 @@ df_filtrado = df[
 ]
 
 st.title("Dashboard de Análise Salarial na Area de Dados")
-st.markdown("EXplore os dados salariais de profissionais da área de dados no Brasil. Utilize-se dos filtros na barra lateral para personalizar sua visualização dos dados.")
+st.markdown("Explore os dados salariais de profissionais da área de dados no Brasil. Utilize-se dos filtros na barra lateral para personalizar sua visualização dos dados.")
 
 st.subheader("Metricas Gerais (Salario Anual em USD)")
 
