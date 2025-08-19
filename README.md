@@ -78,8 +78,8 @@ Obs: Os dados foram tratados para garantir qualidade e anonimato.
 
 #### Passo a Passo
 ```
-git clone https://github.com/seu-usuario/dashboard-salarios-dados.git  
-cd dashboard-salarios-dados  
+git clone https://github.com/Loorea/Dashboard-AnaliseDeDados.git  
+cd Dashboard-AnaliseDeDados
 pip install -r requirements.txt  
 python src/app.py
 ```
